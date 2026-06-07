@@ -38,15 +38,15 @@ Created a hierarchy named:
 - _Location
   - Country
   - Region
-  - State
+  - State --
 This enables drill-down analysis within geographical data.
 
 ## 🎛 Parameters Created
-- 🔹 Primary Region Parameter 
+- Primary Region Parameter 
 Allows users to select the first region for comparison.
-- 🔹 Secondary Region Parameter
+- Secondary Region Parameter
 Allows users to select the second region for comparison.
-- 🔹 Calculated Fields
+- Calculated Fields
 
 Created calculated fields to dynamically display data for:
 - Primary Region
@@ -59,12 +59,12 @@ A calculated field was created to identify the earliest order date for each sele
 ## 📊 Dashboard Components
 ### 📌 Key Performance Indicators (KPIs)
 For both Primary and Secondary Regions:
-- ✅ First Order Date
-- ✅ Total Sales
-- ✅ Average Sales per Order
-- ✅ Number of Customers
-- ✅ Number of Orders
-- ✅ Number of Products Sold
+- First Order Date
+- Total Sales
+- Average Sales per Order
+- Number of Customers
+- Number of Orders
+- Number of Products Sold
 
 ## 📈 Visualizations Included
 - 🗺 Regional Sales Map
