@@ -94,3 +94,7 @@ This dashboard helps management:
 - Understand customer behavior
 - Make data-driven business decisions
 - Discover opportunities for revenue growth
+
+## Live Dashboard Link: 
+
+https://public.tableau.com/app/profile/monika.padval/viz/CRBS/Dashboard1?publish=yes
