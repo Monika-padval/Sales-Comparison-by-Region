@@ -94,6 +94,3 @@ This dashboard helps management:
 - Understand customer behavior
 - Make data-driven business decisions
 - Discover opportunities for revenue growth
- 
-- 
-
